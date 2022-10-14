@@ -2,8 +2,8 @@
 Waybackurls Grabber
 
 # Installation:
-    git clone 
-    cd oraster
+    git clone https://github.com/0xt4req/grabwayback.git
+    cd grabwayback
     python3 -r requirements.txt
     
     
